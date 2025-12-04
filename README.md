@@ -43,3 +43,4 @@ Arquitetura
 - React 18
 - TypeScript
 - CSS Modules
+
